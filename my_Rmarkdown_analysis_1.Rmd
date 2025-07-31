@@ -23,7 +23,10 @@ summary(cars)
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
+<!-- ```{r pressure, echo=FALSE}  -->
+[//]: ```{r pressure, echo=FALSE} 
+[//]: (这是一段被注释掉的文字)
+```{r pressure}
 plot(pressure)
 ```
 
